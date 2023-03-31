@@ -1,0 +1,9 @@
+.bloop
+.bsp
+.idea
+.metals
+.vscode
+target/
+.DS_Store
+derby.log
+metastore_db
